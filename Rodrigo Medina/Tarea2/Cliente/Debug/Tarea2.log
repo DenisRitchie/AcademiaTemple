@@ -1,0 +1,4 @@
+﻿  Cliente.cpp
+C:\Users\USER\source\repos\Tarea2\Cliente\Cliente.cpp(70,27): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\USER\source\repos\Tarea2\Cliente\Cliente.cpp(70,53): warning C4018: '>=': no coinciden signed/unsigned
+  Tarea2.vcxproj -> C:\Users\USER\source\repos\Tarea2\Debug\Tarea2.exe
