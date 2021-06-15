@@ -1,0 +1,28 @@
+
+-30
+-106 
+-128
+-111 //rostro
+-110 // Ropa Azul Mameluco Jjajaja
+-124
+32
+-112 //bordes o contorno
+-116 //bordes o contorno
+-120
+-109 // Gorro y Camisa
+
+
+-------------
+-128 -> 0 -- Contorno
+-124 -> 1 -- Contorno
+-120 -> 2 -- Contorno y Bigote
+-116 -> 3 -- Contorno
+-112 -> 4 -- Contorno
+-111 -> 5 -- Rostro
+-110 -> 6 -- Ropa Azul Mameluco
+-109 -> 7 -- Gorro y Camisa
+-106 -> 8 -- espacio
+-30 -> 9  -- espacio
+10 -> 10  -- Salto de linea
+32 -> 11 -- espacio 
+95 -> 12 -- guiones
